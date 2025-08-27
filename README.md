@@ -2,7 +2,8 @@
 <p align="center">
   <h1 align="center">Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models</h1>
   <p align="center">
-    Hao Cheng*, Erjia Xiao*, Yichi Wang, Lingfeng Zhang, Qiang Zhang, Jiahang Cao, Kaidi Xu, Mengshu Sun, Xiaoshuai Hao<sup>†</sup>, Jindong Gu<sup>†</sup>, Renjing Xu<sup>†</sup>
+    Hao Cheng*, Erjia Xiao*, Yichi Wang, Lingfeng Zhang, Qiang Zhang, Jiahang Cao, Kaidi Xu, Mengshu Sun<br>
+    Xiaoshuai Hao<sup>†</sup>, Jindong Gu<sup>†</sup>, Renjing Xu<sup>†</sup>
   </p>
   <p align="center" >
     <em>HKUST (GZ) & HKUST & University of Oxford & Beijing University of Technology & Beijing Academy of Artificial Intelligence & Tsinghua University & Drexel University & X-Humanoid</em>
