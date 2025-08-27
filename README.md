@@ -6,7 +6,8 @@
     Xiaoshuai Hao<sup>†</sup>, Jindong Gu<sup>†</sup>, Renjing Xu<sup>†</sup>
   </p>
   <p align="center" >
-    <em>HKUST (GZ) & HKUST & University of Oxford & Beijing University of Technology & Beijing Academy of Artificial Intelligence & Tsinghua University & Drexel University & X-Humanoid</em>
+    <em>HKUST (GZ) & HKUST & University of Oxford & Beijing University of Technology<br>
+    Beijing Academy of Artificial Intelligence & Tsinghua University & Drexel University & X-Humanoid</em>
   </p>
   <p align="center">
     <a href='https://arxiv.org/abs/2503.11519'>
