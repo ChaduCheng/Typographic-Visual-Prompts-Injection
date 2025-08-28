@@ -24,3 +24,17 @@
 
 
 This is the official code repository for ["Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models".](https://arxiv.org/abs/2503.11519)
+
+If you find our work useful for your research and applications, please cite using this BibTeX:
+
+```
+@misc{cheng2025exploringtypographicvisualprompts,
+      title={Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models}, 
+      author={Hao Cheng and Erjia Xiao and Yichi Wang and Lingfeng Zhang and Qiang Zhang and Jiahang Cao and Kaidi Xu and Mengshu Sun and Xiaoshuai Hao and Jindong Gu and Renjing Xu},
+      year={2025},
+      eprint={2503.11519},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.11519}, 
+}
+```
